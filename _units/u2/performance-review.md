@@ -1,5 +1,5 @@
 ---
-title: 052.B Perfomance Self-Review
+title: 052.B Performance Self-Review
 unit: Portfolio
 order: 2
 objectives:
